@@ -49,6 +49,9 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <footer className="w-full border-t border-white/10 bg-dark-900 px-4 py-6 text-center text-sm text-gray-400">
+        By Ahkam Khan
+      </footer>
     </main>
   )
 }
